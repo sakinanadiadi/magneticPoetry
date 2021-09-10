@@ -2,13 +2,14 @@ import firebase from "firebase/app";
 import "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBMfTxZyYMSwMZ5BUBlDI7xd87qBrFlnb8",
-  authDomain: "poem-7a3e7.firebaseapp.com",
-  projectId: "poem-7a3e7",
-  storageBucket: "poem-7a3e7.appspot.com",
-  messagingSenderId: "668698243568",
-  appId: "1:668698243568:web:3045283b2df1cb2dc9ed35",
+  apiKey: "AIzaSyDaGM4KbZGUEnNb8D7OIThFL9Y6psK2mS4",
+  authDomain: "magneticpoem.firebaseapp.com",
+  projectId: "magneticpoem",
+  storageBucket: "magneticpoem.appspot.com",
+  messagingSenderId: "1082826137101",
+  appId: "1:1082826137101:web:51885f0bc4dd9186077f44",
 };
+
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
